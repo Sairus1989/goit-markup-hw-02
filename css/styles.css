@@ -174,3 +174,143 @@ letter-spacing: 0.03em;
 }
 
 
+/* ПОРТФОЛИО */
+
+/* Фильрт */
+.filter-list {
+color: var(--title-text-color);
+font-family: Roboto,monospace;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+}
+
+.button-one{
+    background-color: #F5F4FA;
+    color: var(--title-text-color);
+    width: 73px;
+    height: 38px;
+    left: 495px;
+    top: 174px;
+    color: var(--title-text-color);
+    font-family: Roboto,monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+}
+.button-one:hover,
+.button-one:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+
+.button-two {
+    background-color: #F5F4FA;
+    color: var(--title-text-color);
+    width: 128px;
+    height: 38px;
+    left: 576px;
+    top: 174px;
+    color: var(--title-text-color);
+    font-family: Roboto,monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+}
+.button-two:hover,
+.button-two:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+
+.button-three {
+    background-color: #F5F4FA;
+    color: var(--title-text-color);
+    width: 145px;
+    height: 38px;
+    left: 712px;
+    top: 174px;
+    color: var(--title-text-color);
+    font-family: Roboto,monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+}
+.button-three:hover,
+.button-three:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+
+.button-four {
+    background-color: #F5F4FA;
+    color: var(--title-text-color);
+    width: 103px;
+    height: 38px;
+    left: 865px;
+    top: 174px;
+    color: var(--title-text-color);
+    font-family: Roboto,monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+}
+.button-four:hover,
+.button-four:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+
+.button-five {
+    background-color: #F5F4FA;
+    color: var(--title-text-color);
+    width: 130px;
+    height: 38px;
+    left: 976px;
+    top: 174px;
+    color: var(--title-text-color);
+    font-family: Roboto,monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+}
+.button-five:hover,
+.button-five:focus {
+    color: #ffffff;
+    background-color: var(--accent-color);
+}
+
+/* Примеры работ */
+
+.list-examples .examples-title {
+    color: var(--title-text-color);
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+
+.examples-text {
+font-family: Roboto;
+font-size: 16px;
+line-height: 1.9;
+letter-spacing: 0.03em;
+}
