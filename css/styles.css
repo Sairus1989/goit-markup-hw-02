@@ -91,6 +91,7 @@ text-align: center;
 letter-spacing: 0.06em;
 width: 200px;
 height: 50px;
+cursor: pointer;
 }
 
 /* Delete hidden title */
